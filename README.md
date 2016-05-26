@@ -4,6 +4,6 @@ This project was an assignment from the game development studio [8D Games][8dgam
 [8dgames]: www.8d-games.nl
 
 For this project I created a bunch of Maya and Unity tools:
-* BackUpper is a Maya tool I written in python. I saw that a lot of artists used "save as" often and I thought: "that can go quicker and easier". So I started writing a backup plugin that saves a new scene with a incrementing number with a press of a button.
+* BackUpper is a Maya tool written in python. I saw that a lot of artists used "save as" often and I thought: "that can go quicker and easier". So I started writing a backup plugin that saves a new scene with a incrementing number with a press of a button.
 * AlignX, AlignY, AlignZ are a Maya tools I created that straightens an edge between vertices. Currently it only works with two vertices, but I'm planning to extended it so it can work with more vertices. I created this tool when I saw there was uv mapping tool that does the same thing and I thought it also can be useful during modeling.
 * GetObjectsByName, GiveParent and ReplaceGameObjects are a bunch of Unity tools I created to make the creation of levels in Unity easier.
